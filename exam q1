@@ -1,0 +1,4 @@
+dict={'name':'zara','age':7,'class':'first'}
+print (dict)
+print dict ['name']
+print dict ['age']
